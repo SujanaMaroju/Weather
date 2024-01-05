@@ -1,0 +1,22 @@
+.basic , .basic_Footer {
+    text-align:center;
+    background-color: rgb(4, 4, 4);
+    font-style: italic;
+    color:rgb(246, 240, 243) ;
+ 
+    
+}
+
+.Container
+ {
+    height: 100vh;
+    text-align: center;
+    flex: auto;
+}
+
+body {
+    background-image: url("weather.png");
+
+   }
+
+   
